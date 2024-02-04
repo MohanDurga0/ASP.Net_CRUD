@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="row justify-content-center">
+
+    <div class="col-10">
+
+        <div class="alert alert-info" role="alert">
+            CRUD Employees
+        </div>
+        <button type="button" class="btn btn-success button-new-employee">New Employee</button>
+
+
+        <table class="table table-striped" id="tableEmployee" >
+            <thead>
+                <tr>
+                    <th>Full Name</th>
+                    <th>Department</th>
+                    <th>Salary</th>
+                    <th>Hire Date</th>
+                    <th></th> <!--column to show edit and delete button-->
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+    </div>
+
+</div>
+
+
+<!--MODAL to add or edit an employee-->
+<!-- Modal -->
+<div class="modal fade" id="modalEmployee" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal Employee</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+               
+                <div class="mb-3">
+                  <label  class="form-label">Full Name</label>
+                  <input type="text" class="form-control" id="txtFullName" autocomplete="off">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Department</label>
+                    <select class="form-select" id="cboDepartment"></select>
+                </div>
+
+                <div class="mb-3">
+                    <label  class="form-label">Salary</label>
+                    <input type="number" class="form-control" id="txtSalary">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Hire Date</label>
+                    <input type="text" class="form-control" id="txtHireDate">
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary button-save-changes-employee">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts{
+    <script src="~/js/Index.js"></script>
+}

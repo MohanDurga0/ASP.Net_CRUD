@@ -1,0 +1,76 @@
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.Development.json
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.json
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.staticwebassets.runtime.json
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.exe
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.deps.json
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.pdb
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.AppCrud.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.build.AppCrud.props
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppCrud.props
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppCrud.props
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.pack.json
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.build.json
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.development.json
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\bundle\AppCrud.styles.css
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\projectbundle\AppCrud.bundle.scp.css
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\refint\AppCrud.dll
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.pdb
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.genruntimeconfig.cache
+E:\WorkSpaceAD\YOUTUBE 2\009_CRUD ASP.NET CORE 7 ADO.Net\AppCrud\AppCrud\obj\Debug\net7.0\ref\AppCrud.dll
+D:\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.Development.json
+D:\AppCrud\AppCrud\bin\Debug\net7.0\appsettings.json
+D:\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.staticwebassets.runtime.json
+D:\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.exe
+D:\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.deps.json
+D:\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.runtimeconfig.json
+D:\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.dll
+D:\AppCrud\AppCrud\bin\Debug\net7.0\AppCrud.pdb
+D:\AppCrud\AppCrud\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AppCrud\AppCrud\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.AssemblyReference.cache
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfoInputs.cache
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.AssemblyInfo.cs
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CoreCompileInputs.cache
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cache
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.RazorAssemblyInfo.cs
+D:\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.AppCrud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.build.AppCrud.props
+D:\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AppCrud.props
+D:\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AppCrud.props
+D:\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.build.json
+D:\AppCrud\AppCrud\obj\Debug\net7.0\staticwebassets.development.json
+D:\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\bundle\AppCrud.styles.css
+D:\AppCrud\AppCrud\obj\Debug\net7.0\scopedcss\projectbundle\AppCrud.bundle.scp.css
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.csproj.CopyComplete
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.dll
+D:\AppCrud\AppCrud\obj\Debug\net7.0\refint\AppCrud.dll
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.pdb
+D:\AppCrud\AppCrud\obj\Debug\net7.0\AppCrud.genruntimeconfig.cache
+D:\AppCrud\AppCrud\obj\Debug\net7.0\ref\AppCrud.dll
